@@ -1,2 +1,6 @@
 # AFPA
-Documents pour les cours de AFPA
+Documents - cours de AFPA
+
+Ces cours sont à destination des stagiaires de Afpa.
+
+# Les exercices
