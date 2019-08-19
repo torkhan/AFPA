@@ -9,9 +9,6 @@ Veuillez coller ici vos liens vers votre gitHub
 | marc| eremus | https://github.com/marceremus/AFPA|
 | Richardsons | Rassouan | https://github.com/RassouanRIchardsons |
 | Eric| Boulanger | https://github.com/rastatak|
-| Andreea | Pungan | https://github.com/Sayuri21| 
 | Abbout | Sébastien | https://github.com/seb-coder |
-| Boidin | Charles | https://github.com/CharlesBoidin |
-
-
+| Bochu | Jean-mickael | https://github.com/Jyhaime |
 
