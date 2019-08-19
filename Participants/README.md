@@ -14,6 +14,6 @@ Veuillez coller ici vos liens vers votre gitHub
 | Boidin | Charles | https://github.com/CharlesBoidin |
 | Hatemian | Julien | https://github.com/JulienHatemian |
 | Viseurs | Mickael | https://github.com/mikeviseurs |
-
+| Bochu | Jean Mickael | https://github.com/Jyhaime |
 
 
