@@ -12,10 +12,9 @@ Veuillez coller ici vos liens vers votre gitHub
 | Andreea | Pungan | https://github.com/Sayuri21| 
 | Abbout | Sébastien | https://github.com/seb-coder |
 | Boidin | Charles | https://github.com/CharlesBoidin |
+|gossart | michael | https://github.com/micgos |
 | Carpentier | Charles | https://github.com/chcarpentier |
 | Hatemian | Julien | https://github.com/JulienHatemian |
 | Viseurs | Mickael | https://github.com/mikeviseurs |
-
-
 
 
