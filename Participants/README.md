@@ -5,12 +5,16 @@ La liste des participants à la formation
 Veuillez coller ici vos liens vers votre gitHub
 
 | Nom | Prénom | Link gitHub | 
-|bourdier|jerome|https://github.com/jeromebourdier| 
-| marc| eremus | https://github.com/marceremus/AFPA|
+| Debeusscher | Frantz | https://github.com/frantz-debeusscher |
+| bourdier|jerome|https://github.com/jeromebourdier| 
 | Richardsons | Rassouan | https://github.com/RassouanRIchardsons |
 | Eric| Boulanger | https://github.com/rastatak|
-| Andreea | Pungan | https://github.com/Sayuri21| 
 | Abbout | Sébastien | https://github.com/seb-coder |
 | Viseurs | Mickaël | https://github.com/mikeviseurs| 
-
-
+| Bochu | Jean-mickael | https://github.com/Jyhaime |
+| Boidin | Charles | https://github.com/CharlesBoidin |
+| gossart | michael | https://github.com/micgos |
+| Carpentier | Charles | https://github.com/chcarpentier |
+| Hatemian | Julien | https://github.com/JulienHatemian |
+| Viseurs | Mickael | https://github.com/mikeviseurs |
+| Bochu | Jean Mickael | https://github.com/Jyhaime |
