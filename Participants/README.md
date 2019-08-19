@@ -5,9 +5,10 @@ La liste des participants à la formation
 Veuillez coller ici vos liens vers votre gitHub
 
 | Nom | Prénom | Link gitHub | 
-|----------|:---------:|--------------:| 
+|bourdier|jerome|https://github.com/jeromebourdier| 
 | marc| eremus | https://github.com/marceremus/AFPA|
 | Richardsons | Rassouan | https://github.com/RassouanRIchardsons |
 | Eric| Boulanger | https://github.com/rastatak|
 | | https://github.com/rastatak| 
+
 
