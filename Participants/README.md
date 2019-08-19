@@ -5,6 +5,7 @@ La liste des participants à la formation
 Veuillez coller ici vos liens vers votre gitHub
 
 | Nom | Prénom | Link gitHub | 
+| Debeusscher | Frantz | https://github.com/frantz-debeusscher |
 |bourdier|jerome|https://github.com/jeromebourdier| 
 | Richardsons | Rassouan | https://github.com/RassouanRIchardsons |
 | Eric| Boulanger | https://github.com/rastatak|
@@ -12,6 +13,9 @@ Veuillez coller ici vos liens vers votre gitHub
 | Abbout | Sébastien | https://github.com/seb-coder |
 | Boidin | Charles | https://github.com/CharlesBoidin |
 | Carpentier | Charles | https://github.com/chcarpentier |
+| Hatemian | Julien | https://github.com/JulienHatemian |
+| Viseurs | Mickael | https://github.com/mikeviseurs |
+
 
 
 
