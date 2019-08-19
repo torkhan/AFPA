@@ -16,5 +16,5 @@ Veuillez coller ici vos liens vers votre gitHub
 | Carpentier | Charles | https://github.com/chcarpentier |
 | Hatemian | Julien | https://github.com/JulienHatemian |
 | Viseurs | Mickael | https://github.com/mikeviseurs |
-
+| Bochu | Jean Mickael | https://github.com/Jyhaime |
 
