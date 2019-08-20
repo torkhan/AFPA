@@ -1,6 +1,12 @@
 # AFPA-Participants
 La liste des participants à la formation
 
+## Objectifs:
+- créer un cahier de charge 
+- créer une maquette des pages : index, formulaire (contact, identification...), une page qui affiche le produit
+- faire une estimation du site web
+- décrire des principales opérations que l'utilisateur peut effectuer.
+
 ## La liste 
 Veuillez coller ici vos liens vers votre gitHub
 
