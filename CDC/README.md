@@ -1,6 +1,4 @@
-# AFPA
-
-# Réalisation 
+# Réalisation du cahier de charge simplifié
 
 ## Objectifs:
 - créer un cahier de charge 
