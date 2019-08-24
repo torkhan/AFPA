@@ -14,9 +14,9 @@ Cours php
 - https://www.php.net/manual/fr/language.control-structures.php
 
 ## Fonctions :
-- Les fonctions définies par l'utilisateur
-- Les arguments de fonction :  https://www.php.net/manual/fr/functions.user-defined.php
-- Les valeurs de retour : https://www.php.net/manual/fr/functions.arguments.php
-- Fonctions variables : https://www.php.net/manual/fr/functions.returning-values.php
+- Les fonctions définies par l'utilisateur : https://www.php.net/manual/fr/functions.user-defined.php
+- Les arguments de fonction :  https://www.php.net/manual/fr/functions.arguments.php
+- Les valeurs de retour : https://www.php.net/manual/fr/functions.returning-values.php
+- Fonctions variables : https://www.php.net/manual/fr/functions.variable-functions.php
 - Fonctions internes : https://www.php.net/manual/fr/functions.internal.php
 - Fonctions anonymes : https://www.php.net/manual/fr/functions.anonymous.php
