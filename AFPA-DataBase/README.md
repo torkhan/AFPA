@@ -10,6 +10,8 @@ Les cours sur les bases de données
 ### Fichiers PDF
 - Livre complet de gestion des bases de données : https://zestedesavoir.com/tutoriels/pdf/730/administrez-vos-bases-de-donnees-avec-mysql.pdf
 
+- https://zestedesavoir.com/tutoriels/730/administrez-vos-bases-de-donnees-avec-mysql/
+
 ### Sites internet - Help me!!!!
 - https://www.w3schools.com/sql/default.asp
 - https://stackoverflow.com/

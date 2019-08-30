@@ -13,4 +13,5 @@ https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader-e
 - Bonnes pratiques :
 https://severin-bruhat.com/php-bonnes-pratiques-et-conventions/
 
-#### TEST
+## Référencement 
+- https://www.connectix.fr/seo/ameliorer-referencement
