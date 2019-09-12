@@ -20,14 +20,14 @@
 		<h2>Sign it</h2>
 		<hr>
 		<div id="signIt">
-			<form action="" method="">
+			<form action="verifPassword.php" method="POST">
 				<div class="form-group">
 					<label for="email">Email adresse : </label>
-					<input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Votre email">
+					<input type="email" class="form-control" name="email" id="email" aria-describedby="emailHelp" placeholder="Votre email">
 				</div>
 				<div class="form-group">
 					<label for="password">Mot de pass</label>
-					<input type="password" class="form-control" id="password" placeholder="Mot de passe">
+					<input type="password" class="form-control" name="password" id="password" placeholder="Mot de passe">
 				</div>
 				<div id="btn">
 				<a href="#"><button type="submit" class="btn btn-danger">Abandonner</button></a>
