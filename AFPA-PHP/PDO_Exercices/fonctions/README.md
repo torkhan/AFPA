@@ -13,5 +13,6 @@
 - fonction qui prend en paramètre une date et qui revoie la date sous format jour-mois-année 
 - fonction qui prend en paramètre deux dates et qui revoie le nombre de jours entre les deux dates
 - fonction qui prend en paramètre deux tableau et qui envoie un seul tableau
+- fonction qui ajoute au tableau (à la fin de celui ci), passé en paramètre, une variable passée en paramètre
 
  
