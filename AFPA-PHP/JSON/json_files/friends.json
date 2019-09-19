@@ -1,0 +1,98 @@
+[
+  {
+    "friends": [
+      {
+        "id": 0,
+        "name": "Hartman Snyder"
+      },
+      {
+        "id": 1,
+        "name": "Bethany Griffith"
+      },
+      {
+        "id": 2,
+        "name": "Mayra Franco"
+      }
+    ]
+  },
+  {
+    "friends": [
+      {
+        "id": 0,
+        "name": "Allyson Merritt"
+      },
+      {
+        "id": 1,
+        "name": "Shelby Terry"
+      },
+      {
+        "id": 2,
+        "name": "Tucker Cobb"
+      }
+    ]
+  },
+  {
+    "friends": [
+      {
+        "id": 0,
+        "name": "Alejandra Mccullough"
+      },
+      {
+        "id": 1,
+        "name": "Hope Hart"
+      },
+      {
+        "id": 2,
+        "name": "Althea Singleton"
+      }
+    ]
+  },
+  {
+    "friends": [
+      {
+        "id": 0,
+        "name": "Mccormick Whitehead"
+      },
+      {
+        "id": 1,
+        "name": "Constance Hale"
+      },
+      {
+        "id": 2,
+        "name": "Latasha Holland"
+      }
+    ]
+  },
+  {
+    "friends": [
+      {
+        "id": 0,
+        "name": "Eva Harris"
+      },
+      {
+        "id": 1,
+        "name": "Bates Harvey"
+      },
+      {
+        "id": 2,
+        "name": "Butler Bernard"
+      }
+    ]
+  },
+  {
+    "friends": [
+      {
+        "id": 0,
+        "name": "Andrews Morse"
+      },
+      {
+        "id": 1,
+        "name": "Gonzalez Avery"
+      },
+      {
+        "id": 2,
+        "name": "Penelope George"
+      }
+    ]
+  }
+]
