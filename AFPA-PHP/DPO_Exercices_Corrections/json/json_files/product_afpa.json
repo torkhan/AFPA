@@ -1,0 +1,196 @@
+[
+  {
+    "data":[
+      {
+        "id":"42",
+        "name":"Sony Smart Watch",
+        "description":"Wal-mart Shirt",
+        "price":"24",
+        "category_id":"1",
+        "image":"image.jpeg",
+        "created":"2019-09-16 21:02:31",
+        "modified":"2019-09-16 21:02:31"
+      },
+      {
+        "id":"2",
+        "name":"Google Nexus 4",
+        "description":"The most awesome phone ",
+        "price":"29",
+        "category_id":"2",
+        "image":"telechargement.jpeg",
+        "created":"2019-09-16 20:46:01",
+        "modified":"2019-09-13 18:09:42"
+      },
+      {
+        "id":"3",
+        "name":"Samsung Galaxy S4",
+        "description":"How about no? 123",
+        "price":"69",
+        "category_id":"2",
+        "image":"telechargement.jpeg",
+        "created":"2019-09-16 20:46:01",
+        "modified":"2019-09-13 18:22:27"
+      },
+      {
+        "id":"7",
+        "name":"Lenovo Laptop",
+        "description":"My business partner.",
+        "price":"399",
+        "category_id":"2",
+        "image":"telechargement.jpeg",
+        "created":"2019-09-16 20:46:01",
+        "modified":"2014-05-31 02:13:39"
+      },
+      {
+        "id":"8",
+        "name":"Samsung Galaxy Tab 10.1",
+        "description":"Good tablet.",
+        "price":"259",
+        "category_id":"2",
+        "image":"telechargement.jpeg",
+        "created":"2019-09-16 20:46:01",
+        "modified":"2014-05-31 02:14:08"
+      },
+      {
+        "id":"9",
+        "name":"Spalding Watch",
+        "description":"My sports watch.",
+        "price":"199",
+        "category_id":"1",
+        "image":"telechargement.jpeg",
+        "created":"2014-06-01 01:18:36",
+        "modified":"2014-05-31 02:18:31"
+      },
+      {
+        "id":"10",
+        "name":"Sony Smart Watch",
+        "description":"The coolest smart watch!",
+        "price":"300",
+        "category_id":"2",
+        "image":"telechargement.jpeg",
+        "created":"2019-09-16 20:46:01",
+        "modified":"2014-06-05 18:09:51"
+      },
+      {
+        "id":"11",
+        "name":"Huawei Y300",
+        "description":"For testing purposes.",
+        "price":"100",
+        "category_id":"2",
+        "image":"telechargement.jpeg",
+        "created":"2019-09-16 20:46:01",
+        "modified":"2014-06-05 18:10:54"
+      },
+      {
+        "id":"12",
+        "name":"Abercrombie Lake Arnold Shirt",
+        "description":"Perfect as gift!",
+        "price":"60",
+        "category_id":"1",
+        "image":"telechargement.jpeg",
+        "created":"2014-06-06 17:12:21",
+        "modified":"2014-06-05 18:12:11"
+      },
+      {
+        "id":"13",
+        "name":"Abercrombie Allen Brook Shirt",
+        "description":"Cool red shirt!",
+        "price":"70",
+        "category_id":"1",
+        "image":"telechargement.jpeg",
+        "created":"2014-06-06 17:12:59",
+        "modified":"2014-06-05 18:12:49"
+      },
+      {
+        "id":"25",
+        "name":"Abercrombie Allen Anew Shirt",
+        "description":"Awesome new shirt!",
+        "price":"999",
+        "category_id":"1",
+        "image":"telechargement.jpeg",
+        "created":"2014-11-22 18:42:13",
+        "modified":"2014-11-21 19:42:13"
+      },
+      {
+        "id":"26",
+        "name":"Another product",
+        "description":"Awesome product!",
+        "price":"555",
+        "category_id":"2",
+        "image":"telechargement.jpeg",
+        "created":"2019-09-16 20:46:01",
+        "modified":"2014-11-21 20:07:34"
+      },
+      {
+        "id":"28",
+        "name":"Wallet",
+        "description":"You can absolutely use this one!",
+        "price":"799",
+        "category_id":"1",
+        "image":"telechargement.jpeg",
+        "created":"2014-12-04 21:12:03",
+        "modified":"2014-12-03 22:12:03"
+      },
+      {
+        "id":"30",
+        "name":"Wal-mart Shirt",
+        "description":"Wal-mart Shirt",
+        "price":"555",
+        "category_id":"2",
+        "image":"telechargement.jpeg",
+        "created":"2019-09-16 20:46:01",
+        "modified":"2014-12-12 01:52:29"
+      },
+      {
+        "id":"39",
+        "name":"name",
+        "description":"description",
+        "price":"10",
+        "category_id":"2",
+        "image":"telechargement.jpeg",
+        "created":"2019-09-16 20:46:01",
+        "modified":"2019-09-13 22:10:43"
+      },
+      {
+        "id":"40",
+        "name":"name 1",
+        "description":"Description 123",
+        "price":"22",
+        "category_id":"1",
+        "image":"telechargement.jpeg",
+        "created":"2019-09-13 22:15:00",
+        "modified":"2019-09-13 22:15:00"
+      },
+      {
+        "id":"38",
+        "name":"name",
+        "description":"description",
+        "price":"10",
+        "category_id":"2",
+        "image":"telechargement.jpeg",
+        "created":"2019-09-16 20:46:01",
+        "modified":"2019-09-13 22:10:05"
+      },
+      {
+        "id":"41",
+        "name":"Sony Smart Watch",
+        "description":"Wal-mart Shirt",
+        "price":"24",
+        "category_id":"2",
+        "image":"",
+        "created":"2019-09-16 21:00:17",
+        "modified":"2019-09-16 21:00:17"
+      },
+      {
+        "id":"43",
+        "name":"Smart Watch",
+        "description":"Wal-Shirt",
+        "price":"124",
+        "category_id":"1",
+        "image":"image1.jpeg",
+        "created":"2019-09-16 21:03:52",
+        "modified":"2019-09-16 21:03:52"
+      }
+    ]
+  }
+]

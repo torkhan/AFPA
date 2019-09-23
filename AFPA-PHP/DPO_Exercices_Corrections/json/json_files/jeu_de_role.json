@@ -1,0 +1,20 @@
+[{
+    "data":[
+      {
+        "id_typeUser":"1",
+        "typeName":"Admin",
+        "actived":"1"
+      },
+      {
+        "id_typeUser":"2",
+        "typeName":"Autor",
+        "actived":"0"
+      },
+      {
+        "id_typeUser":"3",
+        "typeName":"Editor",
+        "actived":"1"
+      }
+    ]
+  }
+]
