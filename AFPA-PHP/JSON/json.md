@@ -1,3 +1,3 @@
 # AFPA-PHP
-## Traiteent des fichiers JSON avec PHP
+## Traitement des fichiers JSON avec PHP
 
