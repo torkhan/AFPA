@@ -135,7 +135,7 @@
     	echo 'La différence entre deux dates : '.nbJour("2019-09-01", "2019-09-20");
     	echo '<br>';
     
-    	//fonction qui prend en paramètre deux tableau et qui envoie un seul tableau
+    	//fonction qui prend en paramètre deux tableaux et qui envoie un seul tableau
     	// la création de la fonction
     	/**
     	 * @param array $tab1
