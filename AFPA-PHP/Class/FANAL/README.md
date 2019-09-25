@@ -28,3 +28,11 @@
 		}
 
 	}
+	
+	echo Time::DAY/3600;
+	echo '<br>';
+	echo Date::MONTH/3600/30;
+
+	$con = new Date();
+	echo '<br>';
+	echo $con::MONTH/3600/30;
