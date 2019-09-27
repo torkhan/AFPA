@@ -73,7 +73,7 @@ abstract class AbstractWorker implements Worker {
 
 ------------------------------------------------------------------------------------
 
-class TranscactionProcessorWorker extends AbstractWorker {
+class TransactionProcessorWorker extends AbstractWorker {
     private $transactions;
 
     protected function getMemoryLimit() {
