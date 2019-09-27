@@ -1,11 +1,16 @@
 ## Class Statique 
 
-Cette page décrit l'utilisation du mot clé static qui permet de définir des méthodes et des propriétés statiques. static peut aussi être utilisé pour définir des variables statiques et pour finir des liaisons statiques. Reportez-vous à ces pages pour plus d'informations sur la signification de static.
+Cette page décrit l'utilisation du mot clé static qui permet de définir des méthodes et des propriétés statiques. static 
+peut aussi être utilisé pour définir des variables statiques et pour finir des liaisons statiques. 
+Reportez-vous à ces pages pour plus d'informations sur la signification de static.
 
-Le fait de déclarer des propriétés ou des méthodes comme statiques vous permet d'y accéder sans avoir besoin d'instancier la classe. On ne peut accéder à une propriété déclarée comme statique avec l'objet instancié d'une classe (bien que ce soit possible pour une méthode statique).
+Le fait de déclarer des propriétés ou des méthodes comme statiques vous permet d'y accéder sans avoir besoin 
+d'instancier la classe. On ne peut accéder à une propriété déclarée comme statique avec l'objet instancié 
+d'une classe (bien que ce soit possible pour une méthode statique).
 
 #### Avertissement
-En PHP 7, l'appel statique de méthodes non-statiques est déconseillé et génèrera une alerte E_DEPRECATED. La prise en charge de l'appel statique de méthodes non-statiques sera supprimé dans le futur.
+En PHP 7, l'appel statique de méthodes non-statiques est déconseillé et génèrera une alerte E_DEPRECATED. 
+La prise en charge de l'appel statique de méthodes non-statiques sera supprimé dans le futur.
 
 
 			
