@@ -24,3 +24,10 @@ Ajoutez dans le fichier composer.json, la ligne suivante :
             "src": "src/"
         }
     },
+    
+    sur Windows :
+        "autoload": {
+        "psr-4": {
+            "src\\": "src"
+        }
+    },
