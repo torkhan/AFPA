@@ -1,0 +1,9 @@
+SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known
+SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known
+SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known
+Erreur dans l'extraction de la base de donnée SQLSTATE[42S02]: Base table or view not found: 1146 Table 'velo_v1.articles' doesn't exist
+Erreur dans l'extraction de la base de donnée SQLSTATE[42S02]: Base table or view not found: 1146 Table 'velo_v1.articles' doesn't exist
+Erreur dans l'extraction de la base de donnée SQLSTATE[42S02]: Base table or view not found: 1146 Table 'velo_v1.articles' doesn't exist
+Erreur dans l'extraction de la base de donnée SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2' at line 1
+Erreur dans l'extraction de la base de donnée SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2' at line 1
+Erreur dans l'extraction de la base de donnée SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2' at line 1
