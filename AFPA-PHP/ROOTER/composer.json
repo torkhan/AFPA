@@ -1,0 +1,26 @@
+{
+  "name": "marceremus/rooter",
+  "authors": [
+    {
+      "name": "Marcux",
+      "email": "marceremus@gmail.com"
+    }
+  ],
+  "require": {
+    "symfony/debug": "^4.3",
+    "altorouter/altorouter": "^1.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\" : "src/"
+    }
+  },
+  "require-dev": {
+    "symfony/var-dumper": "^4.3",
+    "phpunit/phpunit": "5.7.*",
+    "codeclimate/php-test-reporter": "dev-master"
+  },
+  "scripts": {
+    "test": "vendor/bin/phpunit"
+  }
+}
