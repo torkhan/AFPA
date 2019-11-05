@@ -1,0 +1,99 @@
+#titre_principal{
+    font-family: 'Pacifico';
+    font-size: 4em;
+    font-display: swap;
+    box-shadow: 0px 0px 10px 10px ;
+    border-radius: 35px;
+    src: local('Pacifico Regular'), local('Pacifico-Regular'), url(https://fonts.gstatic.com/s/pacifico/v15/FwZY7-Qmy14u9lezJ-6K6MmBp0u-zK4.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+#clem{
+    font-family: 'Pacifico';
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Pacifico Regular'), local('Pacifico-Regular'), url(https://fonts.gstatic.com/s/pacifico/v15/FwZY7-Qmy14u9lezJ-6K6MmBp0u-zK4.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+.nav-item {
+    color:orange;
+}
+
+.nav-link {
+    color:orange;
+}
+
+.listeProduit{
+    vertical-align: middle !important;
+    font-weight: bold;
+    font-size: 22px;
+}
+section{
+    padding: 10% 0;
+}
+
+.bg-warning{
+    background-color: darkcyan !important;
+    color: white;
+}
+
+.navbar-nav a , .navbar-brand, .navbar-dark .navbar-brand{
+    color: white;
+    padding: 0 30px;
+    font-size: 20px;
+}
+
+
+#listeProduit img{
+    width: 40%;
+}
+
+#tarif{
+    text-align: center;
+    border: 2px solid #666666;
+    border-radius: 10px;
+    box-shadow: 2px 2px #757575;
+}
+
+#tarif p{
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+}
+#tarif p span{
+    color: #A7301F;
+    font-weight: bold;
+}
+
+#datacarte label{
+    font-size: 20px;
+    padding: 10px 0;
+    font-weight: bold;
+    color: #757575;
+}
+.row{
+    margin: 10px;
+}
+
+.nav-item ul{
+    padding-left: 10%;
+}
+.page-footer{
+    background-color: #333a40;
+    color:white;
+}
+.page-footer a{
+    color:white;
+}
+
+.carousel-inner, .card{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #666666;
+}
+
+.card, .border-dark{
+    border:none !important;
+}
