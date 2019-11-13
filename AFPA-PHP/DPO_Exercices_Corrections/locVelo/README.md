@@ -19,15 +19,10 @@ Cette commande permets de créer les fichier composer.json.
 
 Ajoutez dans le fichier composer.json, la ligne suivante : 
 
+    
     "autoload": {
         "psr-4": {
-            "src": "src/"
+            "App\\": "src/"
         }
-    },
+     }
     
-    sur Windows :
-        "autoload": {
-        "psr-4": {
-            "src\\": "src"
-        }
-    },
