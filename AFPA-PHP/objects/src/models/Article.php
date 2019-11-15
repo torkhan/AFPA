@@ -7,14 +7,15 @@
 	 */
 	class Article {
 
+		private $id;
 		private $name;
 		private $description;
 		private $price;
+		private $category;
+		private $image;
 
-		public function __construct($name,$description, $price) {
-			$this->name = $name;
-			$this->description = $description;
-			$this->price = $price;
+		public function __construct() {
+			$this->category = 1;
 		}
 
 		/**
@@ -25,39 +26,96 @@
 		}
 
 		/**
-		 * @param mixed $name
+		 * @param $name
+		 *
+		 * @return string
 		 */
-		public function setName( $name ) {
+		public function setName( $name ): void {
 			$this->name = $name;
 		}
 
 		/**
-		 * @return mixed
+		 * @return string
+		 */
+		public function getDescription() {
+			return $this->description;
+		}
+
+		/**
+		 * @param $description
+		 *
+		 * @return void
+		 */
+		public function setDescription( $description ): void {
+			$this->description = $description;
+		}
+
+		/**
+		 * @return float
 		 */
 		public function getPrice() {
 			return $this->price;
 		}
 
 		/**
-		 * @param mixed $price
+		 * @param $price
+		 *
+		 * @return void
 		 */
-		public function setPrice( $price ) {
+		public function setPrice( $price ): void {
 			$this->price = $price;
 		}
 
 		/**
-		 * @return mixed
+		 * @return int
 		 */
-		public function getQuantity() {
-			return $this->quantity;
+		public function getCategory(): int {
+			return $this->category;
 		}
 
 		/**
-		 * @param mixed $quantity
+		 * @param int $category
+		 *
+		 * @return int
 		 */
-		public function setQuantity( $quantity ) {
-			$this->quantity = $quantity;
+		public function setCategory( int $category ): void {
+			$this->category = $category;
 		}
 
+		/**
+		 * @return string
+		 */
+		public function getImage() {
+			return $this->image;
+		}
+
+		/**
+		 * @param $image
+		 *
+		 * @return void
+		 */
+		public function setImage( $image ): void {
+			$this->image = $image;
+		}
+
+		/**
+		 * @return integer
+		 */
+		public function getId() {
+			return $this->id;
+		}
+
+		/**
+		 * @param mixed $id
+		 */
+		public function setId( $id ): void {
+			$this->id = $id;
+		}
+
+		public function addArticle($id, $nom, $description, $price, $cat, $image){
+			$art = array($nom, $description, $price, $cat, $image, $id);
+			return $art;
+
+		}
 
 	}

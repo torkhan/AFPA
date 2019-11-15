@@ -1,22 +1,22 @@
 <?php
+
 	require '../src/models/Repository.php';
 	require '../src/models/Connect.php';
 	require '../view/elements/head.php';
 	require '../config/config.php';
 
-	//var_dump($_GET);
+	use App\models\Connect;
+	use App\models\Repository;
+
 	if(isset($_GET['id'])){
 		$id = $_GET['id'];
 	}else{
 		$id = "";
 	}
 
-	$con = new Connect();
-	$connection = $con::connect();
-
-	$rep = new Repository($connection);
+	$rep = new Repository();
 	$data = $rep->getArticleByID($id);
-	//var_dump($data);
+
 ?>
 <div class="mt-5">
 	<h3>Détail de l'article</h3>

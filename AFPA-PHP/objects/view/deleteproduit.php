@@ -14,10 +14,6 @@
 		$id = "";
 	}
 
-	$con = new Connect();
-	$connection = $con::connect();
-
-	$rep = new Repository($connection);
 	$data = $rep->deleteArticleByID($id);
 
 

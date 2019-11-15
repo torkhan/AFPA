@@ -5,10 +5,7 @@
 	use Exception;
 
 	class Connect {
-		public function __construct(){}
-		/**
-		 * Connect constructor.
-		 */
+
 		static public function connect(){
 
 			try{

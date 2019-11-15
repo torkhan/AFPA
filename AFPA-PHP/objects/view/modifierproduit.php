@@ -15,10 +15,7 @@
 		$id = "";
 	}
 
-	$con = new Connect();
-	$connection = $con::connect();
-
-	$rep = new Repository($connection);
+	$rep = new Repository();
 	$data = $rep->getArticleByID($id);
 
 ?>
@@ -26,6 +23,10 @@
 		<h3>Modifier l'article</h3>
 	</div>
 	<form method="get" action="modifaction.php">
+        <div class="d-none">
+            <label for="id">ID</label>
+            <input type="text" name="id" class="form-control" value="<?php echo $data->id; ?>">
+        </div>
 		<div class="form-group">
 			<label for="nomarticle">Nom</label>
 			<input type="text" name="nomarticle" class="form-control" id="nomarticle" value="<?php echo $data->name; ?>">
@@ -41,7 +42,7 @@
 		<p>Choisissez le fichier</p>
 		<div class="custom-file">
 			<input type="file" class="custom-file-input" name="filename" id="filename">
-			<label class="custom-file-label" for="filename">Choose file</label>
+			<label class="custom-file-label" download for="filename">Choose file</label>
 		</div>
 		<div class="mt-3">
 			<button type="submit" class="btn btn-primary">Modifier</button>
