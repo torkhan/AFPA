@@ -15,3 +15,6 @@ https://severin-bruhat.com/php-bonnes-pratiques-et-conventions/
 
 ## Référencement 
 - https://www.connectix.fr/seo/ameliorer-referencement
+
+## Inteliji - students
+- https://www.jetbrains.com/idea/nextversion/
