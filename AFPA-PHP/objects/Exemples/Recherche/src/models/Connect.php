@@ -6,9 +6,6 @@
 
 	class Connect {
 
-		/**
-		 * @return PDO
-		 */
 		static public function connect(){
 
 			try{

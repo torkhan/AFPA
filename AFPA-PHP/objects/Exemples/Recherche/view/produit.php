@@ -25,9 +25,9 @@
 	<h2>Name : <?php echo $data->name; ?></h2>
 	<p>Description :<?php echo $data->description; ?></p>
 	<p>Prix : <?php echo $data->price; ?> euros</p>
-	<p><img src="../libs/img/<?php echo $data->image; ?>" alt="image"></p>
+	<p>Image : <?php echo $data->image; ?></p>
 	<button class="btn btn-success">
-		<a href="productListe.php">Retours</a>
+		<a href="../index.php">Retours</a>
 	</button>
 </div>
 <?php

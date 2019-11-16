@@ -1,14 +1,12 @@
 <?php
 
-	require '../vendor/autoload.php';
+	use App\models\Connect;
+	use App\models\Repository;
+
 	require '../src/models/Repository.php';
 	require '../src/models/Connect.php';
 	require '../config/config.php';
 
-	use App\models\Connect;
-	use App\models\Repository;
-
-	$rep = new Repository();
 
 	if(isset($_GET['id'])){
 		$id = $_GET['id'];
@@ -16,7 +14,7 @@
 		$id = "";
 	}
 
-	$rep->deleteArticleByID($id);
+	$data = $rep->deleteArticleByID($id);
 
 
 

@@ -47,7 +47,7 @@
 		<div class="mt-3">
 			<button type="submit" class="btn btn-primary">Modifier</button>
 
-				<button type="submit" class="btn btn-danger"><a href="productListe.php">Abondonner</a></button>
+				<button type="submit" class="btn btn-danger"><a href="../index.php">Abondonner</a></button>
 
 		</div>
 	</form>

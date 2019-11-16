@@ -14,9 +14,6 @@
 		private $category;
 		private $image;
 
-		/**
-		 * Article constructor.
-		 */
 		public function __construct() {
 			$this->category = 1;
 		}

@@ -43,10 +43,10 @@
 	);
 
 	$rep = new Repository();
-
+	$rep->copyUpdateFile();
 	$data = $rep->updateArticleByID($tabargs);
 	if($data == 1){
-		header('Location: productListe.php');
+		header('Location: ../index.php');
 	}else{
 		echo "L'article n'a pas été supprimé.";
 	}
