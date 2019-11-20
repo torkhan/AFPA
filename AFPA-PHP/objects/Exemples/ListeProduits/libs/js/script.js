@@ -2,8 +2,6 @@ $(document).ready(function(){
 
     let message = document.querySelector("#resultats");
 
-    let nbRecherche = "";
-
     $("#btnrecherche").on("click", function(e){
         e.preventDefault();
         message.innerHTML = "";
@@ -24,7 +22,6 @@ $(document).ready(function(){
             }
         });
     });
-
 });
 
 

@@ -36,4 +36,17 @@
 		public function getButton($type, $value, $class, $id=""){
 			return '<button type="'.$type.'" id="'.$id.'" class="'.$class.'">'.$value.'</button>';
 		}
+
+
+		/**
+		 * @return string
+		 */
+		public function createUplaod(){
+			//return '<form method="POST" enctype="multipart/form-data">
+		return '<div class="custom-file col-6">
+					<input type="file" class="custom-file-input" name="filename" id="filename">
+					<label class="custom-file-label" for="filename">Choose file</label>';
+		//.$this->getButton("submit","Valider","btn btn-success").'</div>';
+			//</form>';
+		}
 	}
