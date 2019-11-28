@@ -1,5 +1,8 @@
 # Exemples des API
 
+## La documentation API
+- https://api-platform.com/docs/
+
 ## Codes postaux
 
 Affichage sous forme : /communes/{code} 
