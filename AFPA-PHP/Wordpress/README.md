@@ -4,6 +4,7 @@
 ### Documentations
 - https://wpmarmite.com/difference-article-page-wordpress/
 - https://tutoriels-wordpress.babel-web.info/custom-post-types-pourquoi-et-comment/
+- https://developer.wordpress.org/reference/
 
 
 
